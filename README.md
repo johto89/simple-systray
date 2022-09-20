@@ -17,3 +17,7 @@ cd simple-systray
 go get
 go build
 ./simple-systray
+```
+
+## Reference
+https://github.com/Osuka42g/simple-clock-systray
