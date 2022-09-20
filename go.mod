@@ -1,4 +1,4 @@
-module simple-clock-systray
+module simple-systray
 
 go 1.19
 
