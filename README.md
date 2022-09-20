@@ -6,13 +6,13 @@ a cross platfrom Go library to place an icon and menu in the notification area
 
 ## Usage
 ```
-go get github.com/Osuka42g/simple-systray
+go get https://github.com/johto89/simple-systray
 simple-systray
 ```
 
 Manual:
 ```
-git clone https://github.com/Osuka42g/simple-clock-systray.git
+git clone git@github.com:johto89/simple-systray.git
 cd simple-systray
 go get
 go build
